@@ -32,7 +32,7 @@ public class SortTwoArrays {
             for (int j = 0; j < col; j++) {
                 System.out.print(nam[i][j] + " ");
             }
-            System.out.println();
+            System.out.println("");
         }
 
 
